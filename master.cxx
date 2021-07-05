@@ -2,5 +2,5 @@
 
 int main()
 {
-    int x = 0;
-}
+    int x = 1879;
+}/*Test0*/
