@@ -1,12 +1,10 @@
 #pragma region TR
 
 #include <cstdlib>
+#include <iostream>
+using namespace std;
 
 int main()
 {
-<<<<<<< HEAD
-    int x = 8;
-=======
-    int x = 0; /* not define 0 and not change */
->>>>>>> iss12
-};
+    std::cout << "dev-main - stable";
+}
