@@ -6,5 +6,5 @@ using namespace std;
 
 int main()
 {
-    std::cout << "dev-main - stable";
+    std::cout << "master - stable";
 }
