@@ -1,0 +1,6 @@
+<clr1-pair>
+
+no-loc:
+- expect -> branch = "master"-\commit
+
+</clr1-pair>
