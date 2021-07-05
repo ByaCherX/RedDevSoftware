@@ -1,6 +1,6 @@
 <master-branch>
 > Author: Emre Kayal
 
-> Main -> Master
+> Main -> Master - stable
 
 </master-branch>
