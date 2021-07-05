@@ -1,5 +1,6 @@
-master-stable -> all fork
+<master-branch>
+> Author: Emre Kayal
 
-master stable complated 
+> Main -> Master
 
-master not stable now
+</master-branch>
